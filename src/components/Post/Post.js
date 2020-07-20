@@ -36,8 +36,8 @@ class Post extends Component {
                         comments,
                     },
                     animate: false,
-                }, 500)
-            })
+                })
+            }, 500)
             return;
         }
 
